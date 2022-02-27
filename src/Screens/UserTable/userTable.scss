@@ -2,4 +2,7 @@
     background-color: antiquewhite;
     height: calc(100vh - 20px);
     padding: 10px;
+    input {
+        padding: 3px 10px !important;
+    }
 }
