@@ -13,6 +13,7 @@ const UserTable = () => {
 
   useEffect(() => {
     dispatch(setUsers());
+    // eslint-disable-next-line
   }, []);
 
 
